@@ -8,7 +8,7 @@
     En la carpeta ExamenEV2 que se descargará ejecutamos mvn package.
     Este comando creará todo lo necesario para la ejecución del proyecto.
   
-## Ejecución:
+## Ejecución del proyecto:
     Una vez creado el repositorio local en la carpeta ExamenEV2,
     Importamos el proyecto a STS o trabajamos desde la consola.
     Ejecutaremos mvn jetty:run para que se ejecute el servidor local que hosteará nuestra aplicación web
