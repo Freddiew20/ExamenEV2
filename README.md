@@ -12,7 +12,7 @@
     Una vez creado el repositorio local en la carpeta ExamenEV2,
     Importamos el proyecto a STS o trabajamos desde la consola.
     Ejecutaremos mvn jetty:run para que se ejecute el servidor local que hosteará nuestra aplicación web
-    Este servidor local está alojado en el puerto 9999 (así viene configurado en el pom.xml y se puede cambiar)
+    El programa está siendo ejecutado esperando peticiones en el puerto 9999 (así viene configurado en el pom.xml y se puede cambiar)
     En el navegador escribimos localhost:9999/ y se abrirá el cliente de nuestra aplicación que tiene una interfaz muy simple
     El programa recibirá dos argumentos, una key y un value y los imprimirá con el formato que he decidido darle.
     Y ya tenemos el programa funcionando perfectamente, es un buen ejemplo de proyecto maven.
